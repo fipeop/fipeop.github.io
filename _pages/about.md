@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-As part of the Microsoft AI for Good Research Lab, I work on applying AI to solve problems in the fields of sustainability, energy and health care. My research interests lie at the intersection of science and machine learning, including materials informatics, computational biology, physics-informed machine learning and Bayesian optimization. I am very excited about the opportunities provided by modern machine learning to accelerate science and engineering.
+I work on applying AI to solve problems in the fields of sustainability, energy and health care. My research interests lie at the intersection of science and machine learning, including materials informatics, computational biology, physics-informed machine learning and Bayesian optimization. I am very excited about the opportunities provided by modern machine learning to accelerate science and engineering. I am currently an Applied Scientist at the Microsoft AI For Good Research Lab.
 
 Prior to joining Microsoft, I completed my PhD at MIT under the guidance of Prof. Tonio Buonassisi (MIT MechE) and Dr. John Fisher (MIT CSAIL). My dissertation title was “Accelerated development of photovoltaics by physics-informed machine learning”. I developed and deployed machine learning algorithms to accelerate the experimental screening, development and optimization of renewable energy materials and technologies. I collaborated broadly with researchers in the US (Stanford, AFRL), Singapore (SMART, NUS) and Germany (FAU). My work obtained the best paper award in the NeurIPS Climate Change AI workshop 2019 and the MIT Ideas Global Challenge Prize 2017. As a side project, I developed and deployed education software for remote communities in the Ecuadorian Amazon.
 
